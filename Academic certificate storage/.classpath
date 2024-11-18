@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="Academic_certificate_verification_using_Blockchain/src"/>
+	<classpathentry kind="lib" path="Academic_certificate_verification_using_Blockchain/WebContent/WEB-INF/lib/gmail.jar"/>
+	<classpathentry kind="lib" path="Academic_certificate_verification_using_Blockchain/WebContent/WEB-INF/lib/javax.mail-1.4.4.jar"/>
+	<classpathentry kind="lib" path="Academic_certificate_verification_using_Blockchain/WebContent/WEB-INF/lib/mysql-connector-java-5.1.13-bin.jar"/>
+	<classpathentry kind="lib" path="Academic_certificate_verification_using_Blockchain/WebContent/WEB-INF/lib/zxing-1.7-javase.jar"/>
+	<classpathentry kind="lib" path="Academic_certificate_verification_using_Blockchain/WebContent/WEB-INF/lib/zxing-core-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hp/Downloads/javax.servlet-api-4.0.1-javadoc.jar"/>
+	<classpathentry kind="output" path="Academic_certificate_verification_using_Blockchain/build/classes"/>
+</classpath>
